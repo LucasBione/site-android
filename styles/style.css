@@ -200,6 +200,11 @@ aside ul {
     list-style-position: inside;
     columns: 2;
     
+    
+}
+
+abbr {
+    text-decoration: underline;
 }
 
 footer {
